@@ -1,0 +1,57 @@
+body{
+    font-family:Georgia, 'Times New Roman', Times, serif;
+    background-color: rgb(212, 190, 148);
+    color: rgb(121, 51, 5)
+}
+header{
+    background-color: rgb(255, 227, 186);
+    color:rgb(155, 94, 15);
+    padding:10px;
+    text-align:justify;
+}
+nav{
+    background-color: rgb(229, 205, 160);
+    padding:20px;
+}
+nav ul{
+    list-style-type: disc;
+    margin:0;
+    text-align: justify;
+}
+nav ul li{
+    text-decoration: wavy;
+    color:antiquewhite;
+    font-weight: bold;
+}
+main{
+    padding:10px;
+}
+h1, h2{
+    color: rgb(90, 59, 19);
+}
+strong{
+    color:antiquewhite
+}
+img{
+    width:400px;
+    height:auto;
+    margin:30px;
+    display:block;
+}
+footer{
+    background-color: rgb(88, 62, 32);
+    color:rgb(212, 190, 148);
+    text-align: justify;
+    padding:20px;
+    position:static;
+    bottom:0;
+    width:80%;
+}
+footer a{
+    color:antiquewhite;
+    text-decoration:line-through
+
+}
+footer a:hover{
+    text-decoration: double;
+}
